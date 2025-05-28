@@ -1,15 +1,14 @@
 bs4
 requests
 pandas
+numpy
 matplotlib
 seaborn
 scikit-learn
 tabulate
-pillow
-wordcloud
-lxml
 html5lib
 colorama
 unidecode
 chardet
 nbconvert
+sysidentpy
